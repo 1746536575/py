@@ -1,7 +1,7 @@
 .pytest_cache
 .idea
 __pycache__/
-report 
+report
 main.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -107,3 +107,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+!/beiyong/test_123.py
+!/beiyong/test_3.py
+!/beiyong/test1.py
+!/beiyong/login_page_123.py
+!/beiyong/login_data123.json

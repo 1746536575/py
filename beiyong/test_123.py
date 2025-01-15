@@ -2,7 +2,7 @@ import time
 import pytest
 
 from base.base_analyze_149 import analyze_data
-from login_page_123 import LoginPage
+from beiyong.login_page_123 import LoginPage
 from utils.driver_utils import DriverUtils
 
 
